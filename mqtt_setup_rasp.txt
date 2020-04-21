@@ -29,4 +29,3 @@ sudo mosquitto_passwd -c /etc/mosquitto/pwfile TYPE_YOUR_USERNAME_HERE
 4. Test the Mosquitto by subscribing to a topic
 mosquitto_sub -d -u MOSQUITTO_USERNAME -P MOSQUITTO_PASSWORD -t dev/test
 
-https://www.youtube.com/watch?v=Ce2Djxx9shU
